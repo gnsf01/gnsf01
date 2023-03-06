@@ -1,6 +1,6 @@
 ## Olá! Eu sou Gilberto. 🖖🏾
 
-### Meu foco de estudo é Java porém, no futuro, serei Full Stack. 👨‍💻
+### Meu foco de estudo é desenvolvimento Java. 👨‍💻
 <div>
 
 ### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnsf01&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnsf01&layout=compact&theme=transparent)](https://github.com/gnsf01/github-readme-stats)
